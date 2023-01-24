@@ -1,0 +1,1 @@
+A personal assistant chatbot that answers questions about my resume. Built and trained using Google's Dialogflow service. Integrated to a Firebase realtime database to store questions beyond the bot's capabilities.
